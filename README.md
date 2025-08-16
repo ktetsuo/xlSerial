@@ -10,9 +10,7 @@ Excel VBAでシリアル通信するツールです。
 
 ### デモ動画
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AMbt7LwBf8Q?si=GLtNT6wsD98MWiBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[その他の動画はこちら](https://youtube.com/playlist?list=PLy4l3bLhJNUmBLJ8gkZejXYNp5UCzZw5h&si=qdtxjXS1JIyKcdMV)
+[再生リスト](https://youtube.com/playlist?list=PLy4l3bLhJNUmBLJ8gkZejXYNp5UCzZw5h&si=qdtxjXS1JIyKcdMV)
 
 ## ファイルの説明
 
